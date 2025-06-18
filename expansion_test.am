@@ -1,0 +1,7 @@
+
+start: mov r5, r6
+ add r1, r2
+ sub r3, r4
+end: stop
+ add r1, r2
+ sub r3, r4
